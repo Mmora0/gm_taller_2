@@ -22,7 +22,7 @@ if (keyboard_check(ord("D"))){
 }
 else if (keyboard_check(ord("A"))){
 	x = x-spd;
-	image_xscale = -1;
+	image_xscale = -1 ;
 }
 else if (keyboard_check(ord("W"))){
 	y = y-spd;

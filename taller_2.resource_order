@@ -32,6 +32,7 @@
     {"name":"tp_10","order":9,"path":"sprites/tp_10/tp_10.yy",},
     {"name":"Teleport_10","order":9,"path":"objects/Teleport_10/Teleport_10.yy",},
     {"name":"Pj_base","order":2,"path":"objects/Pj_base/Pj_base.yy",},
+    {"name":"pj_movimiento","order":1,"path":"sprites/pj_movimiento/pj_movimiento.yy",},
     {"name":"Teleport_8","order":7,"path":"objects/Teleport_8/Teleport_8.yy",},
     {"name":"Teleport_9","order":8,"path":"objects/Teleport_9/Teleport_9.yy",},
     {"name":"tp_2","order":1,"path":"sprites/tp_2/tp_2.yy",},

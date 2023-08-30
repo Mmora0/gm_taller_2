@@ -50,6 +50,7 @@
     {"id":{"name":"tp_10","path":"sprites/tp_10/tp_10.yy",},},
     {"id":{"name":"Teleport_10","path":"objects/Teleport_10/Teleport_10.yy",},},
     {"id":{"name":"Pj_base","path":"objects/Pj_base/Pj_base.yy",},},
+    {"id":{"name":"pj_movimiento","path":"sprites/pj_movimiento/pj_movimiento.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Teleport_8","path":"objects/Teleport_8/Teleport_8.yy",},},
     {"id":{"name":"Teleport_9","path":"objects/Teleport_9/Teleport_9.yy",},},
