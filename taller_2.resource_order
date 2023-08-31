@@ -49,6 +49,7 @@
     {"name":"Teleport_8","order":7,"path":"objects/Teleport_8/Teleport_8.yy",},
     {"name":"Teleport_9","order":8,"path":"objects/Teleport_9/Teleport_9.yy",},
     {"name":"tp_2","order":1,"path":"sprites/tp_2/tp_2.yy",},
+    {"name":"sala_2","order":2,"path":"sprites/sala_2/sala_2.yy",},
     {"name":"Room11","order":10,"path":"rooms/Room11/Room11.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"colisiones","order":5,"path":"objects/colisiones/colisiones.yy",},

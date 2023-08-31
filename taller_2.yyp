@@ -72,6 +72,7 @@
     {"id":{"name":"Teleport_9","path":"objects/Teleport_9/Teleport_9.yy",},},
     {"id":{"name":"tp_1","path":"sprites/tp_1/tp_1.yy",},},
     {"id":{"name":"tp_2","path":"sprites/tp_2/tp_2.yy",},},
+    {"id":{"name":"sala_2","path":"sprites/sala_2/sala_2.yy",},},
     {"id":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"colisiones","path":"objects/colisiones/colisiones.yy",},},
