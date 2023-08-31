@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Pj_base",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "Pj_move",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -25,17 +22,17 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsShapePoints": [
-    {"x":22.0,"y":52.0,},
-    {"x":42.0,"y":52.0,},
-    {"x":42.0,"y":60.0,},
-    {"x":22.0,"y":60.0,},
+    {"x":0.0,"y":0.0,},
+    {"x":64.0,"y":0.0,},
+    {"x":64.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "pj_base",
-    "path": "sprites/pj_base/pj_base.yy",
+    "name": "pj_movimiento",
+    "path": "sprites/pj_movimiento/pj_movimiento.yy",
   },
   "spriteMaskId": null,
   "visible": true,
