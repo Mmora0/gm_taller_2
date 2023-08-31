@@ -29,7 +29,7 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "tp_4",
     "path": "sprites/tp_4/tp_4.yy",
