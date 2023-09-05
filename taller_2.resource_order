@@ -25,6 +25,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sala_3","order":3,"path":"sprites/sala_3/sala_3.yy",},
     {"name":"tp_0","order":11,"path":"sprites/tp_0/tp_0.yy",},
     {"name":"Room7","order":6,"path":"rooms/Room7/Room7.yy",},
     {"name":"Room8","order":7,"path":"rooms/Room8/Room8.yy",},

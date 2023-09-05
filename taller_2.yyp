@@ -42,6 +42,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"sala_3","path":"sprites/sala_3/sala_3.yy",},},
     {"id":{"name":"espejo","path":"sprites/espejo/espejo.yy",},},
     {"id":{"name":"tp_0","path":"sprites/tp_0/tp_0.yy",},},
     {"id":{"name":"Room7","path":"rooms/Room7/Room7.yy",},},
