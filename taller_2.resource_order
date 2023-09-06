@@ -43,6 +43,7 @@
     {"name":"tp_7","order":6,"path":"sprites/tp_7/tp_7.yy",},
     {"name":"tp_10","order":9,"path":"sprites/tp_10/tp_10.yy",},
     {"name":"sala_1","order":1,"path":"sprites/sala_1/sala_1.yy",},
+    {"name":"sala_4","order":4,"path":"sprites/sala_4/sala_4.yy",},
     {"name":"Teleport_10","order":9,"path":"objects/Teleport_10/Teleport_10.yy",},
     {"name":"pj_movimiento","order":1,"path":"sprites/pj_movimiento/pj_movimiento.yy",},
     {"name":"Room9","order":8,"path":"rooms/Room9/Room9.yy",},
